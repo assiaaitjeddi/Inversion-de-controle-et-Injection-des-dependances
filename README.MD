@@ -61,11 +61,12 @@ En ce qui concerne l'injection des dépendances, plusieurs approches sont explor
 
 
 <li>Instanciation dynamique : 
-<img src ="images/presentationDynamique.png"></li>
+<img src ="images/presentationDynamique.png">
+Le fichier de configuration est : <img src="images/cofig.png"><br></li>
 
 <li>En utilisant le Framework Spring version XML : 
-<img src ="images/presentationSpringXML.png"></li>
-
+<img src ="images/presentationSpringXML.png"><br> le fichier 
+XML est : <img src="images/xml.png"></li> <br>
 
 <li>En utilisant le Framework Spring version Annotation : 
 <img src ="images/PresentationSpringAnnotation.png"></li>
